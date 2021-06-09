@@ -25,12 +25,12 @@ TV시청을 한다고 하였고 실제로 시각장애인 봉사 활동에 참�
 
 ## 기술
 
-<p align="center"><img src="https://user-images.githubusercontent.com/83719746/121422085-cfecf100-c9a9-11eb-8c13-526e86a55e4d.png" width=200></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/83719746/121422085-cfecf100-c9a9-11eb-8c13-526e86a55e4d.png" width=400></p>
 
 ## 결과
 
-<p align="center"><img src="https://user-images.githubusercontent.com/83719746/121422488-40940d80-c9aa-11eb-9a1b-11183a9ef5ff.jpg" width=300></p>
-<p align="center"><img src="(https://user-images.githubusercontent.com/83719746/121422612-5e617280-c9aa-11eb-9251-afe34997efc1.jpg" width=300></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/83719746/121422607-5d304580-c9aa-11eb-83e5-c3f9950af832.jpg" width=300></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/83719746/121422488-40940d80-c9aa-11eb-9a1b-11183a9ef5ff.jpg" width=400></p>
+<p align="center"><img src="(https://user-images.githubusercontent.com/83719746/121422612-5e617280-c9aa-11eb-9251-afe34997efc1.jpg" width=400></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/83719746/121422607-5d304580-c9aa-11eb-83e5-c3f9950af832.jpg" width=400></p>
 <p align="center"> 작품 외관</p>
 
